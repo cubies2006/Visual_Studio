@@ -1,0 +1,4 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\QuadraticFormula\obj\Debug\QuadraticFormula.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\QuadraticFormula\obj\Debug\QuadraticFormula.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\QuadraticFormula\bin\Debug\QuadraticFormula.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\QuadraticFormula\bin\Debug\QuadraticFormula.pdb

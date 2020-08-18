@@ -1,0 +1,16 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OlympicGames\obj\Debug\OlympicGames.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OlympicGames\obj\Debug\OlympicGames.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OlympicGames\bin\OlympicGames.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OlympicGames\bin\OlympicGames.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OlympicGames\bin\OlympicGames.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OlympicGames\obj\Debug\OlympicGames.frmOlympicGames.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OlympicGames\obj\Debug\OlympicGames.vbproj.GenerateResource.Cache
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OlympicGames\obj\Debug\OlympicGames.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\OlympicGames\bin\OlympicGames.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\OlympicGames\bin\OlympicGames.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\OlympicGames\bin\OlympicGames.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\OlympicGames\obj\Debug\OlympicGames.frmOlympicGames.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\OlympicGames\obj\Debug\OlympicGames.vbproj.GenerateResource.Cache
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\OlympicGames\obj\Debug\OlympicGames.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\OlympicGames\obj\Debug\OlympicGames.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\OlympicGames\obj\Debug\OlympicGames.pdb

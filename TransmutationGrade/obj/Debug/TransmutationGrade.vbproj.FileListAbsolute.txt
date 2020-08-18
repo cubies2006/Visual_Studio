@@ -1,0 +1,8 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\TransmutationGrade\obj\Debug\TransmutationGrade.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\TransmutationGrade\obj\Debug\TransmutationGrade.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\TransmutationGrade\bin\TransmutationGrade.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\TransmutationGrade\bin\TransmutationGrade.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\TransmutationGrade\bin\TransmutationGrade.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\TransmutationGrade\obj\Debug\TransmutationGrade.frmTransmutationGrade.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\TransmutationGrade\obj\Debug\TransmutationGrade.vbproj.GenerateResource.Cache
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\TransmutationGrade\obj\Debug\TransmutationGrade.xml

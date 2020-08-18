@@ -1,0 +1,4 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb

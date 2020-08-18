@@ -1,0 +1,16 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\Flames\obj\Debug\Flames.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\Flames\obj\Debug\Flames.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\Flames\bin\Flames.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\Flames\bin\Flames.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\Flames\bin\Flames.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\Flames\obj\Debug\Flames.frmFlames.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\Flames\obj\Debug\Flames.vbproj.GenerateResource.Cache
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\Flames\obj\Debug\Flames.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\Flames\obj\Debug\Flames.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\Flames\obj\Debug\Flames.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\Flames\obj\Debug\Flames.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\Flames\bin\Flames.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\Flames\bin\Flames.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\Flames\bin\Flames.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\Flames\obj\Debug\Flames.frmFlames.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\Flames\obj\Debug\Flames.vbproj.GenerateResource.Cache

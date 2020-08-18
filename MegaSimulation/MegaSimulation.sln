@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaSimulation", "MegaSimulation.csproj", "{772E1DB2-16FA-431D-8FC9-71033A6EF10A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772E1DB2-16FA-431D-8FC9-71033A6EF10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772E1DB2-16FA-431D-8FC9-71033A6EF10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772E1DB2-16FA-431D-8FC9-71033A6EF10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772E1DB2-16FA-431D-8FC9-71033A6EF10A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

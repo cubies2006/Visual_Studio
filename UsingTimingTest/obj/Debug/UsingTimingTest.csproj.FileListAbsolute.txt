@@ -1,0 +1,4 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\UsingTimingTest\obj\Debug\UsingTimingTest.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\UsingTimingTest\obj\Debug\UsingTimingTest.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\UsingTimingTest\bin\Debug\UsingTimingTest.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\UsingTimingTest\bin\Debug\UsingTimingTest.pdb

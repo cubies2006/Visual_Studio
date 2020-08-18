@@ -1,0 +1,6 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\WordGlossary\obj\Debug\WordGlossary.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\WordGlossary\obj\Debug\WordGlossary.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\WordGlossary\bin\Debug\WordGlossary.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\WordGlossary\bin\Debug\WordGlossary.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\WordGlossary\obj\Debug\WordGlossary.frmWordGlossary.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\WordGlossary\obj\Debug\WordGlossary.csproj.GenerateResource.Cache

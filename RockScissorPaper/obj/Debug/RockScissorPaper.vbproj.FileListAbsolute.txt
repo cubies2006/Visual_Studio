@@ -1,0 +1,16 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\RockScissorPaper\obj\Debug\RockScissorPaper.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\RockScissorPaper\obj\Debug\RockScissorPaper.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\RockScissorPaper\bin\RockScissorPaper.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\RockScissorPaper\bin\RockScissorPaper.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\RockScissorPaper\bin\RockScissorPaper.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\RockScissorPaper\obj\Debug\RockScissorPaper.frmRockScissorPaper.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\RockScissorPaper\obj\Debug\RockScissorPaper.vbproj.GenerateResource.Cache
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\RockScissorPaper\obj\Debug\RockScissorPaper.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\RockScissorPaper\obj\Debug\RockScissorPaper.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\RockScissorPaper\obj\Debug\RockScissorPaper.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\RockScissorPaper\obj\Debug\RockScissorPaper.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\RockScissorPaper\bin\RockScissorPaper.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\RockScissorPaper\bin\RockScissorPaper.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\RockScissorPaper\bin\RockScissorPaper.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\RockScissorPaper\obj\Debug\RockScissorPaper.frmRockScissorPaper.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\RockScissorPaper\obj\Debug\RockScissorPaper.vbproj.GenerateResource.Cache

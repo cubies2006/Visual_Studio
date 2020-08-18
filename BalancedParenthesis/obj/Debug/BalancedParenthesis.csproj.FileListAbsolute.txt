@@ -1,0 +1,6 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\BalancedParenthesis\obj\Debug\BalancedParenthesis.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\BalancedParenthesis\obj\Debug\BalancedParenthesis.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\BalancedParenthesis\bin\Debug\BalancedParenthesis.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\BalancedParenthesis\bin\Debug\BalancedParenthesis.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\BalancedParenthesis\obj\Debug\BalancedParenthesis.frmBalancedParenthesis.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\BalancedParenthesis\obj\Debug\BalancedParenthesis.csproj.GenerateResource.Cache

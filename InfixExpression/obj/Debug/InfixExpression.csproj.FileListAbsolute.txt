@@ -1,0 +1,4 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\InfixExpression\obj\Debug\InfixExpression.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\InfixExpression\obj\Debug\InfixExpression.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\InfixExpression\bin\Debug\InfixExpression.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\InfixExpression\bin\Debug\InfixExpression.pdb

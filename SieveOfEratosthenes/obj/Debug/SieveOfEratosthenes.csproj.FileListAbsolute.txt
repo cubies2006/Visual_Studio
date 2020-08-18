@@ -1,0 +1,7 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.frmSieveOfEratosthenes.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csproj.GenerateResource.Cache
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojResolveAssemblyReference.cache

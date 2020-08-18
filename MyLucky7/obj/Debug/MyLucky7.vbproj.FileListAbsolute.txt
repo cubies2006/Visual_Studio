@@ -1,0 +1,11 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\MyLucky7\obj\Debug\MyLucky7.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\MyLucky7\obj\Debug\MyLucky7.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\MyLucky7\bin\MyLucky7.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\MyLucky7\bin\MyLucky7.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\MyLucky7\bin\MyLucky7.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\MyLucky7\obj\Debug\MyLucky7.frmLucky7.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\MyLucky7\obj\Debug\MyLucky7.vbproj.GenerateResource.Cache
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\MyLucky7\obj\Debug\MyLucky7.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\MyLucky7\obj\Debug\MyLucky7.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\MyLucky7\obj\Debug\MyLucky7.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\MyLucky7\obj\Debug\MyLucky7.pdb

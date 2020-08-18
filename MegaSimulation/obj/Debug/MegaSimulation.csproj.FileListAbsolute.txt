@@ -1,0 +1,5 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\MegaSimulation\obj\Debug\MegaSimulation.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\MegaSimulation\obj\Debug\MegaSimulation.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\MegaSimulation\bin\Debug\MegaSimulation.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\MegaSimulation\bin\Debug\MegaSimulation.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\MegaSimulation\obj\Debug\MegaSimulation.csprojResolveAssemblyReference.cache

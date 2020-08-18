@@ -1,0 +1,6 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\BitwiseOperations\obj\Debug\BitwiseOperations.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\BitwiseOperations\obj\Debug\BitwiseOperations.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\BitwiseOperations\bin\Debug\BitwiseOperations.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\BitwiseOperations\bin\Debug\BitwiseOperations.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\BitwiseOperations\obj\Debug\frmBitwiseOperations.frmBitwiseOperations.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\BitwiseOperations\obj\Debug\BitwiseOperations.csproj.GenerateResource.Cache

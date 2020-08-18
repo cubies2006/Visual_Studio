@@ -1,0 +1,4 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\FourDigitNumber\bin\Debug\FourDigitNumber.pdb

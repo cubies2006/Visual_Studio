@@ -1,0 +1,11 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\CelsiusConversion\obj\Debug\CelsiusConversion.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\CelsiusConversion\obj\Debug\CelsiusConversion.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\CelsiusConversion\bin\CelsiusConversion.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\CelsiusConversion\bin\CelsiusConversion.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\CelsiusConversion\bin\CelsiusConversion.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\CelsiusConversion\obj\Debug\CelsiusConversion.frmCelsiusConversion.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\CelsiusConversion\obj\Debug\CelsiusConversion.vbproj.GenerateResource.Cache
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\CelsiusConversion\obj\Debug\CelsiusConversion.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\CelsiusConversion\obj\Debug\CelsiusConversion.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\CelsiusConversion\obj\Debug\CelsiusConversion.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\CelsiusConversion\obj\Debug\CelsiusConversion.pdb

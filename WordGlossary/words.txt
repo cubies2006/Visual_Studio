@@ -1,0 +1,21 @@
+adder,an electronic circuit that performs an addition operation on binary values
+addressability,the number of bits stored in each addressable location in memory
+array,a set of objects all of which are the same size and type
+authentication,a process that requires a user to enter an ID and a password and then be verified by the software to gain access to resources
+backup,the copying of all your data to a secondary storage option
+bandwidth,the capacity of a network line to carry information
+batch,a file that contains a set of commands to be executed by the operating system
+bit,short for binary digit
+block,a logical group of zero or more program statements
+broadband,type of transmission that can use a single wire to transmit multiple streams of data simultaneously using different frequencies
+caching,a process whereby information is retrieved from the network and is then stored locally for use later when the network is not available.
+call,the point at which the computer begins following the instructions in a subprogram
+central processing unit,the brain of the computer which uses logic to perform mathematical operations that are used to manipulate data
+client,a computer on the network that requests network services
+command line,the prompt in a command shell screen from which a command is executed by typing letters and characters
+compiler,a program that translates a high-level program into machine code
+compression,a method of reducing the size of data by using a mathematical calculation
+data,information in a form a computer can use
+database,a structured set of data
+database server,a type of computer that maintains information records that play a major role in most companies and on the Internet
+defragmentation,the reorganization of data on a hard disk to optimize performance

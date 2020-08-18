@@ -1,0 +1,11 @@
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OrderingSystem\obj\Debug\OrderingSystem.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OrderingSystem\obj\Debug\OrderingSystem.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OrderingSystem\bin\OrderingSystem.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OrderingSystem\bin\OrderingSystem.pdb
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OrderingSystem\bin\OrderingSystem.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OrderingSystem\obj\Debug\OrderingSystem.frmOrderingSystem.resources
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OrderingSystem\obj\Debug\OrderingSystem.vbproj.GenerateResource.Cache
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\VB.NET\OrderingSystem\obj\Debug\OrderingSystem.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\OrderingSystem\obj\Debug\OrderingSystem.exe
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\OrderingSystem\obj\Debug\OrderingSystem.xml
+D:\POST-COLYMPIC_ERA\Important_Stuff\Computer-Related\Programming_Projects\Visual_Studio\OrderingSystem\obj\Debug\OrderingSystem.pdb
